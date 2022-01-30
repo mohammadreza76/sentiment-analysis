@@ -1,0 +1,4 @@
+glove.6B
+best_model1.hdf5
+.ipynb_checkpoints
+embedding_word2vec.txt
